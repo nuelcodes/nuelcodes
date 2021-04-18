@@ -2,11 +2,13 @@
 
 ### 👨🏻‍💻 About Me
 
+
+
 ### 🤝🏻 Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nuelcodes/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/phanison225/)
-<a href="mailto:nuelcastillo@icloud.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/apple-%23D14836.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Email"/></a>
+<a href="https://instagram.com/nuelcodes"><img src="https://img.shields.io/badge/instagram-%23c13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/nuelcodes/"><img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:nuelcastillo@icloud.com?subject=Hola%20Manuel"><img src="https://img.shields.io/badge/Email-%234a494d.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Email"/></a>
 
 ```js
 
