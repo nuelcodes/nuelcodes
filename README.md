@@ -1,10 +1,22 @@
+![My Setup Gear!](images/header-github.jpg "My Setup Gear")
+
 ## Hi there 👋, I'm Manuel Castillo
 
 ### 👨🏻‍💻 About Me
 
+* 🌮 I'm from Puebla, Mexico.
+* 👨🏻‍💻 Studied BS(Computer Science).
+* 🐍 I'm currently more about Python.
+* 📐 Continuously learning _Mathematics_.
+* 🖤 My hobbies:
+  * 🥋 Karate
+  * 🥋 Tae Kwon Do
+  * 🏐 Voleyball
+  * 🤩 Watch anime
+  * 🎶 Listen music
+  * 📖 Read horror books
 
-
-### 🤝🏻 Connect with Me
+### 🤝🏻 Connect with me
 
 <a href="https://instagram.com/nuelcodes"><img src="https://img.shields.io/badge/instagram-%23c13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/nuelcodes/"><img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -30,7 +42,7 @@ const skills =
 
     libraries   :[Jquery, Numpy, Pandas, Sklearn, Matplotlib, Tkinter, Grocery CRUD],
 
-    framework   :[Bootstrap, Node, Django, Flask, CodeIgniter, Materialize],\
+    framework   :[Bootstrap, Node, Django, Flask, CodeIgniter, Materialize],
 
     platforms   :[GitHub Pages, Pythonanywhere]
 }
