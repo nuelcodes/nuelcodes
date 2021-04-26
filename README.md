@@ -1,3 +1,5 @@
+<h2 align="center">My Setup Gear ⚡</h2>
+
 ![My Setup Gear!](images/header-github.jpg "My Setup Gear")
 
 ## Hi there 👋, I'm Manuel Castillo
@@ -44,7 +46,7 @@ const skills =
 
     framework   :[Bootstrap, Node, Django, Flask, CodeIgniter, Materialize],
 
-    platforms   :[GitHub Pages, Pythonanywhere]
+    platforms   :[GitHub Pages]
 }
 
 Developer dev = new Developer(@nuelcodes);
